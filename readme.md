@@ -19,7 +19,7 @@ If you want to check your work or to get a hint as to where you might be going w
 Right click and download this file:
 
 <a href="https://dataverse.harvard.edu/api/access/datafile/8079359" download>
-  Workbook 1 ANSWERS: Matrix algebra using Python
+  Workbook 1 ANSWERS: Matrix algebra using Python 
 </a>
 
 ## Input output video 4: Input-output analysis beyond the national level and emissions account (11 mins)

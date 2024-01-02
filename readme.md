@@ -67,3 +67,22 @@ This paper by Oswald et al. (2020) looks at energy footprints and income inequal
   Oswald et al. (2020) Large inequality in international and intranational energy footprints between income groups and across consumption categories
 </a>
 
+## Workbook 4: Scenarios
+
+Right click and download this file:
+
+<a href="https://dataverse.harvard.edu/api/access/datafile/8079352" download>
+  Workbook 4: Scenarios
+</a>
+
+Then open Jupyter notebooks and upload the file to your workspace
+
+## Workbook 4: Answers
+
+If you want to check your work or to get a hint as to where you might be going wrong, here are the answers to Workbook 1: Matrix algebra.
+
+Right click and download this file:
+
+<a href="https://dataverse.harvard.edu/api/access/datafile/8079359" download>
+  Workbook 4 ANSWERS: Scenarios 
+</a>

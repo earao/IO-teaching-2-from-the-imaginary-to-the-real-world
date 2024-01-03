@@ -84,9 +84,9 @@ Right click and download this file:
 
 Then open Jupyter notebooks and upload the file to your workspace
 
-Use this link to download a slightly modified version of the World Input-Output database . Upload all the files (45 of them) in a folder called 'WIODv2016_data' in your Jupyter notebook workspace.
+Use this link to download a slightly modified version of the World Input-Output database . Upload all the files (60 of them) in a folder called 'WIODv2016_data' in your Jupyter notebook workspace.
 
-<a href="https://github.com/earao/IO-teaching-2-imaginary-to-real-world/blob/main/WIODv2016_data.zip" download>
+<a href="https://doi.org/10.7910/DVN/MVBLPH" download>
   WIODv2016_data
 </a>
 

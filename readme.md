@@ -51,7 +51,7 @@ This paper by Wood et al. (2017) looks at how IOA can be used for policy analysi
 This paper by Ivanova et al. (2016) compares environmental footprints of households:
 
 <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/jiec.12371" download>
-  Ivanova et al. (2016) Environmental Impact Assessment of Household Consumption
+  Ivanova et al. (2016) Environmental Impact Assessment of Household Consumption 
 </a>
 
 ## Recommeded Reading

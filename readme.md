@@ -29,9 +29,16 @@ Right click and download this file:
 
 Since making this video, I have developed further work on the carbon footprints of local areas and the carbon footprints of age groups.
 
-UK local area footprints can be investigated here: https://localfootprint.uk/
+UK local area footprints can be investigated here: 
+<a href="https://localfootprint.uk/">
+  local footprints website
+</a>
 
-and this article in The Guardian looks at footprints of different types of households: https://www.theguardian.com/environment/2023/nov/20/restaurants-pets-holidays-how-uk-well-off-have-outsize-carbon-footprints
+and this article in The Guardian looks at footprints of different types of households: 
+
+<a href="https://www.theguardian.com/environment/2023/nov/20/restaurants-pets-holidays-how-uk-well-off-have-outsize-carbon-footprints">
+ Restaurants, pets and holidays: how the UK well off have outsize carbon footprints
+</a>
 
 ## Key Reading
 
@@ -44,7 +51,7 @@ This paper by Wood et al. (2017) looks at how IOA can be used for policy analysi
 This paper by Ivanova et al. (2016) compares environmental footprints of households:
 
 <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/jiec.12371" download>
-  Ivanova et al. (2016) CEnvironmental Impact Assessment of Household Consumption
+  Ivanova et al. (2016) Environmental Impact Assessment of Household Consumption
 </a>
 
 ## Recommeded Reading
@@ -77,10 +84,10 @@ Right click and download this file:
 
 Then open Jupyter notebooks and upload the file to your workspace
 
-Use this link to download a slightly modified version of the World Input-Output database where the tables are in 2000 prices. Upload all the files (45 of them) in a folder called 'WIODv2016_data_deflated' in your Jupyter notebook workspace.
+Use this link to download a slightly modified version of the World Input-Output database . Upload all the files (45 of them) in a folder called 'WIODv2016_data' in your Jupyter notebook workspace.
 
 <a href="https://github.com/earao/IO-teaching-2-imaginary-to-real-world/blob/main/WIODv2016_data.zip" download>
-  WIODv2016_data_deflated
+  WIODv2016_data
 </a>
 
 ## Workbook 4: Answers

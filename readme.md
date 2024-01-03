@@ -54,7 +54,7 @@ This paper by Ivanova et al. (2016) compares environmental footprints of househo
   Ivanova et al. (2016) Environmental Impact Assessment of Household Consumption 
 </a>
 
-## Recommeded Reading
+## Recommended Reading
 
 This paper by Baltruszewicz et al. (2021) looks at energy footprints in Nepal, Vietnam and Zambia:
 

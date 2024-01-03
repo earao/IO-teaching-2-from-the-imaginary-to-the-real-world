@@ -2,12 +2,12 @@
 
 In this second section, we will use a real IO database to calculate some consumption-based emissions accounts. But before we do this we need to revise functions and for-loops. This may already be familiar to you but take a look because we start to build the functions required later in this section.
 
-## Workbook 3: Functions and for-loops
+## Workbook 3: Writing functions and for-loops
 
 Right click and download this file:
 
-<a href="https://dataverse.harvard.edu/api/access/datafile/8079352" download>
-  Workbook 1: Matrix algebra using Python
+<a href="https://dataverse.harvard.edu/api/access/datafile/8080210" download>
+  Workbook 3: Writing functions and for-loops
 </a>
 
 Then open Jupyter notebooks and upload the file to your workspace
@@ -18,8 +18,8 @@ If you want to check your work or to get a hint as to where you might be going w
 
 Right click and download this file:
 
-<a href="https://dataverse.harvard.edu/api/access/datafile/8079359" download>
-  Workbook 1 ANSWERS: Matrix algebra using Python 
+<a href="https://dataverse.harvard.edu/api/access/datafile/8080212" download>
+  Workbook 3 ANSWERS: Writing functions and for-loops 
 </a>
 
 ## Input output video 4: Input-output analysis beyond the national level and emissions account (11 mins)
@@ -71,18 +71,24 @@ This paper by Oswald et al. (2020) looks at energy footprints and income inequal
 
 Right click and download this file:
 
-<a href="https://dataverse.harvard.edu/api/access/datafile/8079352" download>
+<a href="https://dataverse.harvard.edu/api/access/datafile/8080214" download>
   Workbook 4: Scenarios
 </a>
 
 Then open Jupyter notebooks and upload the file to your workspace
 
+Use this link to download a slightly modified version of the World Input-Output database where the tables are in 2000 prices. Upload all the files (45 of them) in a folder called 'WIODv2016_data_deflated' in your Jupyter notebook workspace.
+
+<a href="https://github.com/earao/IO-teaching-3-drivers-of-change/blob/main/WIODv2016_data_deflated.zip" download>
+  WIODv2016_data_deflated
+</a>
+
 ## Workbook 4: Answers
 
-If you want to check your work or to get a hint as to where you might be going wrong, here are the answers to Workbook 1: Matrix algebra.
+If you want to check your work or to get a hint as to where you might be going wrong, here are the answers to Workbook 4: Scenarios.
 
 Right click and download this file:
 
-<a href="https://dataverse.harvard.edu/api/access/datafile/8079359" download>
+<a href="https://dataverse.harvard.edu/api/access/datafile/8080216" download>
   Workbook 4 ANSWERS: Scenarios 
 </a>
